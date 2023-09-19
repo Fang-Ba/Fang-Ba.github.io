@@ -15,6 +15,9 @@ My research interest is around synthetic biology, here I raise a concept called 
 
 Representative works (*corresponding author, #contributed equally)
 ======
+
+<br />
+
 Fang Ba and Jian Li* et al. Nucleic Acids Research (2022)
 ------
 In this work, we utilized serine integrases to created a "Keys match Locks" module, such biological part enabled a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
