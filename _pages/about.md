@@ -12,6 +12,9 @@ I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), 
 
 My research interest is around synthetic biology, here I raise a concept called <B>"synthetic capabilities"</B>, which enable microorganisms (e.g., <i>E. coli</i>) to show novel properties.
 
+<br />
+<br />
+
 
 Representative works (*corresponding author, #contributed equally)
 ======
