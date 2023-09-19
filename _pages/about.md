@@ -1,4 +1,4 @@
-![1](https://github.com/Fang-Ba/Fang-Ba.github.io/assets/126158135/717f8bb6-6ebf-430c-b7ce-d50b48f56c5b)---
+---
 permalink: /
 title: "Brief introduction"
 excerpt: "About me"
@@ -13,11 +13,24 @@ I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), 
 My research interest is around synthetic biology, here I raise a concept called <B>"synthetic capabilities"</B>, which enable microorganisms (e.g., <i>E. coli</i>) to show novel properties.
 
 
-Representative works
+Representative works (*corresponding author, #contributed equally)
 ======
-In 2022, I utilized serine integrases to created a "Keys match Locks" module, such biological part enable a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on Nucleic Acids Research.
+Fang Ba and Jian Li* et al. Nucleic Acids Research (2022)
+------
+In this work, we utilized serine integrases to created a "Keys match Locks" module, such biological part enabled a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
 
-<div align=center><br/><img src='/images/NAR 2022.png'></div>
+<br/><img src='/images/NAR 2022.jpeg'>
+<br />
+
+Fang Ba and Jian Li* et al. Advanced Science (2023)
+------
+In this work, we successfully engineered <i>E. coli</i> to respond erythritol as a molecule via protein eryD and its characterized 26 bp eryD binding site (eryO). Meanwile, engineered <i>E. coli</i> could also utilize erythritol as sole carbon source. This work was published on <B><i>Advanced Science</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008).
+
+<br/><img src='/images/Adv Sci 2023.jpg'>
+<br />
+
+Ruoxuan Peng#, Fang Ba#, Jie Li# and Yifan Liu*, Jian Li*, Shengjie Ling* et al. Advanced Materials (2023)
+------
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
