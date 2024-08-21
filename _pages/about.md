@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), PhD Degree in Materials Science and Engineering supervised by [Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ), and Bachelor Degree in Biological Science Supervised by [Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm). 
+I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), PhD degree major in Materials Science and Engineering supervised by [Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ), and Bachelor degree major in Biological Science Supervised by [Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm). 
 
-My research interest is around <i>synthetic biology</i>, including genetic circuit design, metabolic engineering, chassis modification, and engineered living materials.
+My research interest is around <b>synthetic biology</b>, including genetic circuit design, metabolic engineering, chassis modification, and engineered living materials.
 
 <br/>
 <br/>
 
 
-Representative works (worked as first or co-first author)
+Representative works (first or co-first author)
 ======
 
 <br/>
@@ -42,7 +42,13 @@ In this work, we successfully engineered <i>E. coli</i> to respond erythritol as
 Advanced Materials (2023)
 ------
 <B>Title: Embedding living cells with a mechanically reinforced and functionally programmable hydrogel fiber platform</B><br/>
-In this work
+In this work, we establishes a structure–property–function optimized living hydrogel fiber platform. In details, we reconstructs the genetic circuits of living bacteria to express chromoproteins and fluorescent proteins as two prototypes that enable the coloration of living fibers and sensing water pollutants by monitoring the amount of fluorescent protein expressed. This work was published on <B><i>Advanced Materials</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305583).
+
+<img src='/images/Adv Mater 2023.jpg'>
+<br/>
+<br/>
+
+
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
