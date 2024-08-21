@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Education"
+title: "   "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-<br>
+Education
+====
+
+<br/>
+
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
 <b>Major</b>: Materials Science and Engineering<br>
 <b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)<br>
