@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+<br>
+<br>
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
 <b>Major</b>: Materials Science and Engineering<br>
 <b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)<br>
@@ -19,7 +20,7 @@ redirect_from:
 <br>
 <br>
 <b>Research interests: Synthetic biology</b><br>
-Including: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, tools establishment
+Including: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, establishment of new tools...
 
 <br>
 <br>
