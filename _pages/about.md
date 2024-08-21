@@ -23,7 +23,7 @@ Education
 
 Research Interests
 ====
-<b>Synthetic Biology</b>: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, establishment of new tools...
+<b>Synthetic Biology</b>: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, cell-free protein synthesis (CFPS), living therapeutics
 
 <br>
 <br>
@@ -35,9 +35,9 @@ Selected Publications (First or Co-First Author)
 
 Nucleic Acids Research (2022)
 ------
-<B>Title: SYMBIOSIS: synthetic manipulable biobricks via orthogonal serine integrase systems</B><br/>
+<B>Title: SYMBIOSIS: Synthetic Manipulable Biobricks via Orthogonal Serine Integrase Systems</B><br/>
 
-In this work, we utilized serine integrases to created a "Keys match Locks" module, such biological part enabled a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
+In this work, we utilized serine integrases to create a "Keys match locks" module, such biological part enabled a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
 
 <img src='/images/NAR 2022.jpeg' height="100%" width="100%">
 <br/>
@@ -46,9 +46,9 @@ In this work, we utilized serine integrases to created a "Keys match Locks" modu
 Advanced Science (2023)
 ------
 
-<B>Title: Engineering <i>Escherichia coli</i> to utilize erythritol as sole carbon source</B><br/>
+<B>Title: Engineering <i>Escherichia coli</i> to Utilize Erythritol as Sole Carbon Source</B><br/>
 
-In this work, we successfully engineered <i>E. coli</i> to respond erythritol as a molecule via protein eryD and its characterized 26 bp eryD binding site (eryO). Meanwile, engineered <i>E. coli</i> could also utilize erythritol as sole carbon source. This work was published on <B><i>Advanced Science</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008).
+In this work, we successfully engineered <i>E. coli</i> to respond erythritol as a molecule via protein eryD and its characterized 26 bp eryD binding site (eryO). Meanwhile, engineered <i>E. coli</i> could also utilize erythritol as sole carbon source. This work was published on <B><i>Advanced Science</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008).
 
 <img src='/images/Adv Sci 2023.jpg' height="100%" width="100%">
 <br/>
@@ -57,9 +57,9 @@ In this work, we successfully engineered <i>E. coli</i> to respond erythritol as
 Advanced Materials (2023)
 ------
 
-<B>Title: Embedding living cells with a mechanically reinforced and functionally programmable hydrogel fiber platform</B><br/>
+<B>Title: Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform</B><br/>
 
-In this work, we establishes a structure–property–function optimized living hydrogel fiber platform. In details, we reconstructs the genetic circuits of living bacteria to express chromoproteins and fluorescent proteins as two prototypes that enable the coloration of living fibers and sensing water pollutants by monitoring the amount of fluorescent protein expressed. This work was published on <B><i>Advanced Materials</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305583).
+In this work, we established a structure–property–function optimized living hydrogel fiber platform. In details, we reconstructed the genetic circuits of living bacteria to express chromoproteins and fluorescent proteins as two prototypes that enabled the coloration of living fibers and sensing water pollutants by monitoring the amount of fluorescent protein expressed. This work was published on <B><i>Advanced Materials</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305583).
 
 <img src='/images/Adv Mater 2023.jpg' height="100%" width="100%">
 <br/>
@@ -69,7 +69,7 @@ In this work, we establishes a structure–property–function optimized living 
 <br>
 
 
-Full List Publications
+Full Publication List
 ====
 
 <b>*Corresponding Author, #Equal Contribution</b>
@@ -131,7 +131,7 @@ Full List Publications
 <br>
 <br>
 
-8. W
+8. 
 
 
 
