@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Fang Ba (巴方)"
   avatar           : "Fang Ba.png"
-  bio              : "PhD, focus on synthetic biology."
+  bio              : "PhD, focus on synthetic biology. Last update: Aug. 21 2024"
   location         : "ShanghaiTech University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=bZm7VrwAAAAJ"
   email            : "bafang@alumni.shanghaitech.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Fang-Ba"
+  researchgate     : "https://www.researchgate.net/profile/Fang-Ba"
   uri              :
   bitbucket        :
   codepen          :
