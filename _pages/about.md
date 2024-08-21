@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief introduction"
+title: "Education"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,7 +26,7 @@ Including: genetic circuit design, metabolic engineering, chassis modification, 
 <br>
 
 
-Representative works (first or co-first author)
+Selective publications (first or co-first author)
 ====
 
 <br/>
