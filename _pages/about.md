@@ -10,9 +10,6 @@ redirect_from:
 
 Education
 ====
-
-<br/>
-
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
 <b>Major</b>: Materials Science and Engineering<br>
 <b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)<br>
@@ -22,18 +19,19 @@ Education
 <b>Supervisor</b>: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
 <br>
 <br>
-<b>Research interests: Synthetic biology</b><br>
-Including: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, establishment of new tools...
-
-<br>
 <br>
 
-
-Selective publications (first or co-first author)
+Research Interests
 ====
+<b>Synthetic Biology</b>: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, establishment of new tools...
 
-<br/>
+<br>
+<br>
+<br>
 
+
+Selected Publications (First or Co-First Author)
+====
 Nucleic Acids Research (2022)
 ------
 <B>Title: SYMBIOSIS: synthetic manipulable biobricks via orthogonal serine integrase systems</B><br/>
@@ -63,9 +61,12 @@ In this work, we establishes a structure–property–function optimized living 
 <img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
 <br/>
 <br/>
+<br>
+<br>
+<br>
 
 
-Full list publications
+Full List Publications
 ====
 <b>*Corresponding Author, #Equal Contribution</b>
 <br/>
