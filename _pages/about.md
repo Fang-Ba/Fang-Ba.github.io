@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), PhD degree major in Materials Science and Engineering supervised by [Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ), and Bachelor degree major in Biological Science Supervised by [Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm). 
 
-My research interest is around <b>synthetic biology</b>, including genetic circuit design, metabolic engineering, chassis modification, and engineered living materials.
+<b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
+<b>Major</b>: Materials Science and Engineering<br>
+<b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)<br>
+<br>
+<b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
+<b>Major</b>: Biological Science<br>
+<b>Supervisor</b>: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
+<br>
+<br>
+<b>Research interests: Synthetic biology</b><br>
+Including: genetic circuit design, metabolic engineering, chassis modification, engineered living materials, tools establishment
 
-<b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)
-<b>Major</b>: Materials Science and Engineering
-<b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)
+<br>
+<br>
 
-<br/>
-<br/>
 
 Representative works (first or co-first author)
 ======
