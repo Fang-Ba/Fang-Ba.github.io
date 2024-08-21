@@ -32,6 +32,7 @@ Research Interests
 
 Selected Publications (First or Co-First Author)
 ====
+
 Nucleic Acids Research (2022)
 ------
 <B>Title: SYMBIOSIS: synthetic manipulable biobricks via orthogonal serine integrase systems</B><br/>
@@ -44,6 +45,7 @@ In this work, we utilized serine integrases to created a "Keys match Locks" modu
 
 Advanced Science (2023)
 ------
+
 <B>Title: Engineering <i>Escherichia coli</i> to utilize erythritol as sole carbon source</B><br/>
 
 In this work, we successfully engineered <i>E. coli</i> to respond erythritol as a molecule via protein eryD and its characterized 26 bp eryD binding site (eryO). Meanwile, engineered <i>E. coli</i> could also utilize erythritol as sole carbon source. This work was published on <B><i>Advanced Science</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008).
@@ -54,6 +56,7 @@ In this work, we successfully engineered <i>E. coli</i> to respond erythritol as
 
 Advanced Materials (2023)
 ------
+
 <B>Title: Embedding living cells with a mechanically reinforced and functionally programmable hydrogel fiber platform</B><br/>
 
 In this work, we establishes a structure–property–function optimized living hydrogel fiber platform. In details, we reconstructs the genetic circuits of living bacteria to express chromoproteins and fluorescent proteins as two prototypes that enable the coloration of living fibers and sensing water pollutants by monitoring the amount of fluorescent protein expressed. This work was published on <B><i>Advanced Materials</i></B> [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305583).
@@ -68,6 +71,7 @@ In this work, we establishes a structure–property–function optimized living 
 
 Full List Publications
 ====
+
 <b>*Corresponding Author, #Equal Contribution</b>
 <br/>
 1. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li*. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114)
