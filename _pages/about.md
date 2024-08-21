@@ -77,31 +77,52 @@ Full List Publications
 
 1. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li*. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114)
 <br>
-<img src='/images/Biotechnol J 2024-2.jpg' height="100%" width="100%">
+<img src='/images/Biotechnol J 2024-2.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 2. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li*. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327)
 <br>
-<img src='/images/Biotechnol J 2024-1.jpg' height="100%" width="100%">
+<img src='/images/Biotechnol J 2024-1.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 3. Luyao Wang, Yufei Zhang, Wan-Qiu Liu, <b>Fang Ba</b>*, Jian Li* Serine Integrase-based Recombination Enables Direct Plasmid Assembly <i>In Vivo</i>. <i><b>Synthetic Biology and Engineering</b></i>, 1, 10017 (2023). [Link](https://www.sciepublish.com/article/pii/99)
 <br>
-<img src='/images/SBE 2023.jpg' height="100%" width="100%">
+<img src='/images/SBE 2023.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 4. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li*. Applications of Serine Integrases in Synthetic Biology over the Past Decade. <i><b>SynBio</b></i>, 1, 172-189 (2023). [Link](https://www.mdpi.com/2674-0583/1/2/12)
 <br>
-<img src='/images/SynBio 2023.jpg' height="100%" width="100%">
+<img src='/images/SynBio 2023.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 5. <b>Fang Ba</b>, Xiangyang Ji, Shuhui Huang, Yufei Zhang, Wan-Qiu Liu, Yifan Liu, Shengjie Ling, Jian Li*. Engineering <i>Escherichia coli</i> to Utilize Erythritol as Sole Carbon Source. <i><b>Advanced Science</b></i>, 10, 2207008 (2023). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008)
 <br>
-<img src='/images/Adv Sci 2023.jpg' height="100%" width="100%">
+<img src='/images/Adv Sci 2023.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 6. <b>Fang Ba</b>, Yushi Liu, Wan-Qiu Liu, Xintong Tian, Jian Li*. SYMBIOSIS: Synthetic Manipulable BioBricks via Orthogonal Serine Integrase Systems. <i><b>Nucleic Acids Research</b></i>, 50, 2973-2985 (2022). [Link](https://academic.oup.com/nar/article/50/5/2973/6534355)
 <br>
-<img src='/images/NAR 2022.jpeg' height="100%" width="100%">
+<img src='/images/NAR 2022.jpeg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 7. Ruoxuan Peng#, <b>Fang Ba</b>#, Jie Li#, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu*, Jian Li*, Shengjie Ling*. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)
 <br>
-<img src='/images/Adv Mater 2023.jpg' height="100%" width="100%">
+<img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 8. 
 
