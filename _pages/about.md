@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), got PhD  degree from ShanghaiTech University in July 2024, major in Materials Science and Engineering, supervised by [Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ). I got Bachelor degree from ShanghaiTech University in June 2019, major in Biological Science, Supervised by [Yanfen Liu (刘艳芬)]. 
+I'm [Fang Ba (巴方)](https://scholar.google.com/citations?user=bZm7VrwAAAAJ), PhD Degree in Materials Science and Engineering supervised by [Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ), and Bachelor Degree in Biological Science Supervised by [Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm). 
 
-My research interest is around synthetic biology, containing genetic circuit design, metabolic engineering, chassis modification, and engineered living materials.
+My research interest is around <i>synthetic biology</i>, including genetic circuit design, metabolic engineering, chassis modification, and engineered living materials.
 
 <br/>
 <br/>
