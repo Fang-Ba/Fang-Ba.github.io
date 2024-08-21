@@ -123,7 +123,7 @@ Full Publication List
 <br>
 <br>
 
-7. Ruoxuan Peng#, <b>Fang Ba#</b>, Jie Li#, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu*, Jian Li*, Shengjie Ling*. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)
+7. Ruoxuan Peng#,<b> Fang Ba# </b>, Jie Li#, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu*, Jian Li*, Shengjie Ling*. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)
 <br>
 <br>
 <img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
