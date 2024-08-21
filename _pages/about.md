@@ -37,7 +37,7 @@ Nucleic Acids Research (2022)
 ------
 <B>Title: SYMBIOSIS: Synthetic Manipulable Biobricks via Orthogonal Serine Integrase Systems</B><br/>
 
-In this work, we utilized serine integrases to create a "Keys match locks" module, such biological part enabled a exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
+In this work, we utilized serine integrases to create a "Keys match locks" module, such biological part enabled an exponential manipulation of "<i>N</i>" inputs to "<i>2<sup>N</sup>-1</i>" outputs <i>in vivo</i>. Also, we successfully established a serine integrase-based <i>in vitro</i> plasmid assembly approach. This work was published on <B><i>Nucleic Acids Research</i></B> [Link](https://academic.oup.com/nar/article/50/5/2973/6534355), and recommended by "Faculty Opinions (F1000)" as the highest level (three stars) [Link](https://connect.h1.co/article/741722689).
 
 <img src='/images/NAR 2022.jpeg' height="100%" width="100%">
 <br/>
