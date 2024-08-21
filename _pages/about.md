@@ -27,7 +27,7 @@ Including: genetic circuit design, metabolic engineering, chassis modification, 
 
 
 Representative works (first or co-first author)
-======
+====
 
 <br/>
 
@@ -60,5 +60,16 @@ In this work, we establishes a structure–property–function optimized living 
 <img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
 <br/>
 <br/>
+
+
+Full list publications
+====
+<b>*Corresponding Author, #Equal Contribution</b>
+<br/>
+1. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li*. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114)
+
+2. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li*. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327)
+
+3. 
 
 
