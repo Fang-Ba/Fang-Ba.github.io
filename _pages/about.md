@@ -91,7 +91,7 @@ Full Publication List
 <br>
 <br>
 
-3. Luyao Wang, Yufei Zhang, Wan-Qiu Liu, <b>Fang Ba</b>*, Jian Li* Serine Integrase-based Recombination Enables Direct Plasmid Assembly <i>In Vivo</i>. <i><b>Synthetic Biology and Engineering</b></i>, 1, 10017 (2023). [Link](https://www.sciepublish.com/article/pii/99)
+3. Luyao Wang, Yufei Zhang, Wan-Qiu Liu,<b> Fang Ba* </b>,Jian Li* Serine Integrase-based Recombination Enables Direct Plasmid Assembly <i>In Vivo</i>. <b><i>Synthetic Biology and Engineering</i></b>, 1, 10017 (2023). [Link](https://www.sciepublish.com/article/pii/99)
 <br>
 <br>
 <img src='/images/SBE 2023.jpg' height="75%" width="75%">
