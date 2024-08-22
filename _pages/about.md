@@ -142,7 +142,8 @@ Relevant reports: [Faculty Opinions F1000](https://connect.h1.co/article/7417226
 <br>
 <br>
 
-7. Ruoxuan Peng^,<b>Fang Ba^</b>, Jie Li^, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu#, Jian Li#, Shengjie Ling#. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)
+7. Ruoxuan Peng^,<b>Fang Ba^</b>, Jie Li^, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu#, Jian Li#, Shengjie Ling#. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)<br>
+Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0831/c1006a1080210/page.htm), [南方周末——2023年度十大科创突破](https://www.infzm.com/contents/260750?source=202&source_1=260749), [知耕TechCube](https://zhuanlan.zhihu.com/p/648434249), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/xu90FmvxES7jib4D4qivOA), [微信公众号——上科大科技发展](https://mp.weixin.qq.com/s/IIZh7vToFbEk2FWO0QQ6xw), [微信公众号——高分子科技](https://mp.weixin.qq.com/s/hsb5gjiRg4rFOMtndJAThw), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/yapuVkqQ_r131iXyfIKilg).
 <br>
 <br>
 <img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
