@@ -15,6 +15,14 @@ Email: bafang@alumni.shanghaitech.edu.cn
 <br>
 <br>
 
+Personal CV
+====
+[pdf version](https://drive.google.com/file/d/165pOlp7q3uxfoL4RXa0k05WYm2d2s8p1/view)<br>
+(Last update: Aug. 10 2024)
+<br>
+<br>
+<br>
+
 Education
 ====
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University) [Link](https://oaa.shanghaitech.edu.cn/2024/0704/c4237a1098123/page.htm)<br>
