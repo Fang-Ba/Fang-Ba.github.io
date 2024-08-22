@@ -206,7 +206,7 @@ Honors and Awards
 <b>2023</b>   Outstanding Student (Top 5%) 2022-2023, ShanghaiTech University.
 <br>
 <br>
-<b>2023</b>   Merit Poster Award, 8th Shanghai Syn-Bio Alliance Annual Meeting & 2023 Developmental Frontier.
+<b>2023</b>   Merit Poster Award, 8th Shanghai Syn-Bio Alliance Annual Meeting & 2023 Developmental Frontier. [Link](https://www.shbsq.gov.cn/shbs/en/newscenter/20230605/364793.html)
 <br>
 <br>
 <b>2022</b>   Outstanding Student (Top 5%) 2021-2022, ShanghaiTech University.
