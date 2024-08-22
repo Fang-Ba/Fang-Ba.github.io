@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Contact
+====
+Primary Email: bafang@alumni.shanghaitech.edu.cn
+<br>
+
+Secondary Email: babuxiang0326@gmail.com
+<br>
+<br>
+<br>
+
 Education
 ====
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
@@ -168,7 +178,6 @@ Full Publication List
 Patents
 ====
 
-<br/>
 
 1. (Chinese Patent) Jian Li, <b>Fang Ba</b>, Wan-Qiu Liu. CN202111336469.9 (Under Review).
 <br>
@@ -180,7 +189,6 @@ Patents
 Honors and Awards
 ====
 
-<br/>
 
 <b>2024</b>   Outstanding Graduate (Top 10%) 2024, ShanghaiTech University.
 <br>
@@ -225,6 +233,5 @@ Honors and Awards
 Peer Review Contributions
 ====
 
-<br/>
 
 <i><b>Nature Communications</b></i>, 15, 3338 (2024): Reviewer #2 [Link](https://www.nature.com/articles/s41467-024-47132-8)
