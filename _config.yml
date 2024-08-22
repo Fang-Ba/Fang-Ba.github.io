@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fang Ba (巴方)"
-title_separator          : "-"
+title                    : "Fang Ba (巴方), PhD"
+title_separator          : " "
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://fang-ba.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
