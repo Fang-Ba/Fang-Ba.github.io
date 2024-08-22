@@ -23,7 +23,17 @@ Education
 <br>
 <b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
 <b>Major</b>: Biological Science<br>
-<b>Supervisor</b>: [Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1) and [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
+<b>Supervisor</b>: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
+<br>
+<b>Visiting student</b> (Jan. 2018 - May 2018, University of California, Berkeley)<br>
+<b>Project</b>: Berkeley Biosciences Study Abroad (BBSA) Program<br>
+<br>
+<br>
+<br>
+<b>Acknowledgements</b>
+
+[Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1): PI of iGEM 2016, supervised on engineered living materials. [Link](https://teams.igem.org/2132)<br>
+[Dr. Yan Nie (聂焱)](https://siais.shanghaitech.edu.cn/siais_eng/2018/0211/c2273a15533/page.htm): Instructor of iGEM 2016, supervised on ACEMBL tool [Link](https://teams.igem.org/2132).
 <br>
 <br>
 <br>
