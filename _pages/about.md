@@ -131,7 +131,19 @@ Full Publication List
 <br>
 <br>
 
-8. 
+8. Wan-Qiu Liu^, Xiangyang Ji^, <b>Fang Ba</b>, Yufei Zhang, Huiling Xu, Shuhui Huang, Xiao Zheng, Yifan Liu#, Shengjie Ling#, Michael C. Jewett#, Jian Li#. Cell-Free Biosynthesis and Engineering of Ribosomally Synthesized Lanthipeptides. <i><b>Nature Communications</b></i>, 15, 4336 (2024). [Link](https://www.nature.com/articles/s41467-024-48726-y)
+<br>
+
+9. Ying Liu, Shuhui Huang, Wan-Qiu Liu, <b>Fang Ba</b>, Yifan Liu, Shengjie Ling, Jian Li#. An <i>In Vitro</i> Hybrid Biocatalytic System Enabled by a Combination of Surface-Displayed, Purified, and Cell-Free Expressed Enzymes. <i><b>ACS Synthetic Biology</b></i>, 13, 1434-1441 (2024). [Link](https://pubs.acs.org/doi/10.1021/acssynbio.4c00201)
+<br>
+
+10. Shuhui Huang, <b>Fang Ba</b>, Wan-Qiu Liu, Jian Li#. Stapled NRPS Enhances the Production of Valinomycin in <i>Escherichia coli</i>. <i><b>Biotechnology and Bioengineering</b></i>, 120, 793-802 (2023). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28303)
+<br>
+
+11. Yushi Liu, <b>Fang Ba</b>, Wan-Qiu Liu, Changzhu Wu, Jian Li#. Plug-and-Play Functionalization of Protein–Polymer Conjugates for Tunable Catalysis Enabled by Genetically Encoded “Click” Chemistry. <i><b>ACS Catalysis</b></i>, 12, 4165-4174 (2022). [Link](https://pubs.acs.org/doi/10.1021/acscatal.2c00846)
+<br>
+
+12. 
 
 
 
