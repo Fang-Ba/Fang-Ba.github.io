@@ -17,11 +17,11 @@ Email: bafang@alumni.shanghaitech.edu.cn
 
 Education
 ====
-<b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
+<b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University) [Link](https://oaa.shanghaitech.edu.cn/2024/0704/c4237a1098123/page.htm)<br>
 Major: Materials Science and Engineering<br>
 Supervisor: [Dr. Jian Li (李健)](https://spst.shanghaitech.edu.cn/spst_en/2018/0301/c2939a51344/page.htm)<br>
 <br>
-<b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
+<b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University) [Link](https://oaa.shanghaitech.edu.cn/2021/0329/c4237a62162/page.htm)<br>
 Major: Biological Science<br>
 Supervisor: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
 <br>
