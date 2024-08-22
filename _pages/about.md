@@ -19,7 +19,7 @@ Education
 ====
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
 <b>Major</b>: Materials Science and Engineering<br>
-<b>Supervisor</b>: [Dr. Jian Li (李健)](https://scholar.google.com/citations?user=NF1KlIcAAAAJ)<br>
+<b>Supervisor</b>: [Dr. Jian Li (李健)](https://spst.shanghaitech.edu.cn/spst_en/2018/0301/c2939a51344/page.htm)<br>
 <br>
 <b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
 <b>Major</b>: Biological Science<br>
