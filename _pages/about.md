@@ -10,10 +10,7 @@ redirect_from:
 
 Contact
 ====
-Primary Email: bafang@alumni.shanghaitech.edu.cn
-<br>
-
-Secondary Email: babuxiang0326@gmail.com
+bafang@alumni.shanghaitech.edu.cn
 <br>
 <br>
 <br>
