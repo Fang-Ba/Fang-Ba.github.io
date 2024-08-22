@@ -143,7 +143,43 @@ Full Publication List
 11. Yushi Liu, <b>Fang Ba</b>, Wan-Qiu Liu, Changzhu Wu, Jian Li#. Plug-and-Play Functionalization of Protein–Polymer Conjugates for Tunable Catalysis Enabled by Genetically Encoded “Click” Chemistry. <i><b>ACS Catalysis</b></i>, 12, 4165-4174 (2022). [Link](https://pubs.acs.org/doi/10.1021/acscatal.2c00846)
 <br>
 
-12. 
+12. Luyao Li^, Rong Zhang^, Long Chen, Xintong Tian, Ting Li, Bingchun Pu, Conghui Ma, Xiangyang Ji, <b>Fang Ba</b>, Chenwei Xiong, Yunfeng Shi, Xianqiang Mi, Jian Li#, Jay D. Keasling, Jingwei Zhang#, Yifan Liu#.Permeability-Engineered Compartmentalization Enables <i>In Vitro</i> Reconstitution of Sustained Synthetic Biology Systems. <i><b>Advanced Science</b></i>, 9, 2203652 (2022). [Link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202203652)
+<br>
+
+13. Ailin Zhou, Yi Liu, <b>Fang Ba</b>, Chao Zhong#. Construction and Engineering Application of Bacterial Quorum Sensing Elements. <i><b>Synthetic Biology Journal (in Chinese)</b></i>, 2, 234 (2021). [Link](https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2020-066)
+<br>
+
+14. Xinyu Wang^, Jiahua Pu^, Yi Liu, <b>Fang Ba</b>, Mengkui Cui, Ke Li, Yu Xie, Yan Nie, Qixi Mi, Tao Li, Lingli Liu, Manzhou Zhu, Chao Zhong#. Immobilization of Functional Nano-Objects in Living Engineered Bacterial Biofilms for Catalytic Applications. <i><b>National Science Review</b></i>, 6, 929-943 (2019). [Link](https://academic.oup.com/nsr/article/6/5/929/5540752)
+<br>
+
+15. Jiaofang Huang^, Suying Liu^, Chen Zhang^, Xinyu Wang, Jiahua Pu, <b>Fang Ba</b>, Shuai Xue, Haifeng Ye, Tianxin Zhao, Ke Li, Yanyi Wang, Jicong Zhang, Lihua Wang, Chunhai Fan, Timothy K. Lu, Chao Zhong#.Programmable and Printable <i>Bacillus subtilis</i> Biofilms as Engineered Living Materials. <i><b>Nature Chemical Biology</b></i>, 15, 34-41 (2019). [Link](https://www.nature.com/articles/s41589-018-0169-2)
+<br>
+
+16. Jacob Beal^, Traci Haddock-Angelli^, Geoff Baldwin^, Markus Gershater, Ari Dwijayanti, Marko Storch, Kim De Mora, Meagan Lizarazo, Randy Rettberg, <b>with the iGEM Interlab Study Contributors (Fang Ba)</b>. Quantification of Bacterial Fluorescence Using Independent Calibrants. <i><b>PLoS One</b></i>, 13, e0199432 (2018). [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199432)
+<br>
+
+17. Xinyu Wang^, Jiahua Pu^, Bolin An^, Yingfeng Li, Yuequn Shang, Zhijun Ning, Yi Liu, <b>Fang Ba</b>, Jiaming Zhang, Chao Zhong#. Programming Cells for Dynamic Assembly of Inorganic Nano-Objects with Spatiotemporal Control. <i><b>Advanced Materials</b></i>, 30, 1705968 (2018). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201705968)
+<br>
+<br>
+<br>
 
 
 
+Patents
+====
+
+<br/>
+
+1. (Chinese Patent) Jian Li, <b>Fang Ba</b>, Wan-Qiu Liu. CN202111336469.9 (Under Review).
+<br>
+<br>
+<br>
+
+
+
+Honors and Awards
+====
+
+<br/>
+
+2024 Outstanding Graduate (Top 10%) 2024, ShanghaiTech University.
