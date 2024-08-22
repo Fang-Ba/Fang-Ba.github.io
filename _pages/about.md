@@ -209,7 +209,7 @@ Honors and Awards
 <b>2022</b>   Outstanding Student (Top 5%) 2021-2022, ShanghaiTech University.
 <br>
 <br>
-<b>2022</b>   Faculty Opinions (F1000) Recommended the Manuscript (<b>Fang Ba</b>, and Jian Li# et al. <i><b>Nucleic Acids Research</b></i>, 2022) as Highest Level with Three Stars.
+<b>2022</b>   Faculty Opinions (F1000) Recommended the Manuscript (<b>Fang Ba</b>, and Jian Li# et al. <i><b>Nucleic Acids Research</b></i>, 2022) as Highest Level with Three Stars. [Link](https://connect.h1.co/article/741722689)
 <br>
 <br>
 <b>2019</b>   Outstanding Graduate (Top 10%) 2019, ShanghaiTech University.
@@ -218,19 +218,19 @@ Honors and Awards
 <b>2018</b>   Outstanding Student (Top 5%) 2017-2018, ShanghaiTech University.
 <br>
 <br>
-<b>2018</b>   iGEM 2018 (Worked as Team Advisor): Gold Medal.
+<b>2018</b>   iGEM 2018 (Worked as Team Advisor): Gold Medal. [Link](https://teams.igem.org/2787)
 <br>
 <br>
 <b>2017</b>   Merit Student (Top 10%) 2016-2017, ShanghaiTech University.
 <br>
 <br>
-<b>2017</b>   iGEM 2017 (Worked as Team Leader): Gold Medal, Best Hardware (Sole), Nominated for Best Foundational Advance Project, Nominated for Best Education & Public Engagement, Nominated for Best New Composite Part, Nominated for Safety Commendation.
+<b>2017</b>   iGEM 2017 (Worked as Team Leader): Gold Medal, Best Hardware (Sole), Nominated for Best Foundational Advance Project, Nominated for Best Education & Public Engagement, Nominated for Best New Composite Part, Nominated for Safety Commendation. [Link](https://teams.igem.org/2315)
 <br>
 <br>
 <b>2016</b>   Merit Student (Top 10%) 2015-2016, ShanghaiTech University.
 <br>
 <br>
-<b>2016</b>   iGEM 2016 (Worked as Team Member): Gold Medal.
+<b>2016</b>   iGEM 2016 (Worked as Team Member): Gold Medal. [Link](https://teams.igem.org/2132)
 <br>
 <br>
 <br>
