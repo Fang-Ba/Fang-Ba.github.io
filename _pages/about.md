@@ -163,7 +163,7 @@ Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0831
 11. Yushi Liu, <b>Fang Ba</b>, Wan-Qiu Liu, Changzhu Wu, Jian Li#. Plug-and-Play Functionalization of Protein–Polymer Conjugates for Tunable Catalysis Enabled by Genetically Encoded “Click” Chemistry. <i><b>ACS Catalysis</b></i>, 12, 4165-4174 (2022). [Link](https://pubs.acs.org/doi/10.1021/acscatal.2c00846)
 <br>
 
-12. Luyao Li^, Rong Zhang^, Long Chen, Xintong Tian, Ting Li, Bingchun Pu, Conghui Ma, Xiangyang Ji, <b>Fang Ba</b>, Chenwei Xiong, Yunfeng Shi, Xianqiang Mi, Jian Li#, Jay D. Keasling, Jingwei Zhang#, Yifan Liu#.Permeability-Engineered Compartmentalization Enables <i>In Vitro</i> Reconstitution of Sustained Synthetic Biology Systems. <i><b>Advanced Science</b></i>, 9, 2203652 (2022). [Link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202203652)
+12. Luyao Li^, Rong Zhang^, Long Chen, Xintong Tian, Ting Li, Bingchun Pu, Conghui Ma, Xiangyang Ji, <b>Fang Ba</b>, Chenwei Xiong, Yunfeng Shi, Xianqiang Mi, Jian Li#, Jay D. Keasling, Jingwei Zhang#, Yifan Liu#. Permeability-Engineered Compartmentalization Enables <i>In Vitro</i> Reconstitution of Sustained Synthetic Biology Systems. <i><b>Advanced Science</b></i>, 9, 2203652 (2022). [Link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202203652)
 <br>
 
 13. Ailin Zhou, Yi Liu, <b>Fang Ba</b>, Chao Zhong#. Construction and Engineering Application of Bacterial Quorum Sensing Elements. <i><b>Synthetic Biology Journal (in Chinese)</b></i>, 2, 234 (2021). [Link](https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2020-066)
