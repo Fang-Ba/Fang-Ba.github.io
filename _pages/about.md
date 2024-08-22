@@ -32,7 +32,8 @@ Project: Berkeley Biosciences Study Abroad (BBSA) Program<br>
 <b>Acknowledgements</b>
 
 [Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1): PI of iGEM 2016, supervised on engineered living materials and artificial photosynthesis. [Link](https://teams.igem.org/2132)<br>
-[Dr. Yan Nie (聂焱)](https://siais.shanghaitech.edu.cn/siais_eng/2018/0211/c2273a15533/page.htm): Instructor of iGEM 2016, supervised on ACEMBL tool. [Link](https://teams.igem.org/2132) Advisor of iGEM 2017. [Link](https://teams.igem.org/2315)
+[Dr. Yan Nie (聂焱)](https://siais.shanghaitech.edu.cn/siais_eng/2018/0211/c2273a15533/page.htm): Instructor of iGEM 2016, supervised on ACEMBL tool. [Link](https://teams.igem.org/2132) Advisor of iGEM 2017. [Link](https://teams.igem.org/2315)<br>
+[Dr. Shengjie Ling (凌盛杰)](https://spst.shanghaitech.edu.cn/spst_en/2021/0324/c2939a61998/page.htm) and [Dr. Yifan Liu (刘一凡)](https://spst.shanghaitech.edu.cn/spst_en/2018/0911/c2939a51377/page.htm): Co-corresponding authors of <i><b>Advanced Materials</b></i> (2023). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305583)
 <br>
 <br>
 <br>
