@@ -18,22 +18,21 @@ Email: bafang@alumni.shanghaitech.edu.cn
 Education
 ====
 <b>PhD degree</b> (Sep. 2019 - Jul. 2024, ShanghaiTech University)<br>
-<b>Major</b>: Materials Science and Engineering<br>
-<b>Supervisor</b>: [Dr. Jian Li (李健)](https://spst.shanghaitech.edu.cn/spst_en/2018/0301/c2939a51344/page.htm)<br>
+Major: Materials Science and Engineering<br>
+Supervisor: [Dr. Jian Li (李健)](https://spst.shanghaitech.edu.cn/spst_en/2018/0301/c2939a51344/page.htm)<br>
 <br>
 <b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
-<b>Major</b>: Biological Science<br>
-<b>Supervisor</b>: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
+Major: Biological Science<br>
+Supervisor: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
 <br>
 <b>Visiting student</b> (Jan. 2018 - May 2018, University of California, Berkeley)<br>
-<b>Project</b>: Berkeley Biosciences Study Abroad (BBSA) Program<br>
-<br>
+Project: Berkeley Biosciences Study Abroad (BBSA) Program<br>
 <br>
 <br>
 <b>Acknowledgements</b>
 
-[Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1): PI of iGEM 2016, supervised on engineered living materials. [Link](https://teams.igem.org/2132)<br>
-[Dr. Yan Nie (聂焱)](https://siais.shanghaitech.edu.cn/siais_eng/2018/0211/c2273a15533/page.htm): Instructor of iGEM 2016, supervised on ACEMBL tool [Link](https://teams.igem.org/2132).
+[Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1): PI of iGEM 2016, supervised on engineered living materials and artificial photosynthesis. [Link](https://teams.igem.org/2132)<br>
+[Dr. Yan Nie (聂焱)](https://siais.shanghaitech.edu.cn/siais_eng/2018/0211/c2273a15533/page.htm): Instructor of iGEM 2016, supervised on ACEMBL tool. [Link](https://teams.igem.org/2132) Advisor of iGEM 2017. [Link](https://teams.igem.org/2315)
 <br>
 <br>
 <br>
