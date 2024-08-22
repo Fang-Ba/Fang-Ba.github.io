@@ -10,7 +10,7 @@ redirect_from:
 
 Contact
 ====
-bafang@alumni.shanghaitech.edu.cn
+Email: bafang@alumni.shanghaitech.edu.cn
 <br>
 <br>
 <br>
