@@ -23,7 +23,7 @@ Education
 <br>
 <b>Bachelor degree</b> (Sep. 2015 - Jun. 2019, ShanghaiTech University)<br>
 <b>Major</b>: Biological Science<br>
-<b>Supervisor</b>: [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
+<b>Supervisor</b>: [Prof. Chao Zhong (钟超)](https://isynbio.siat.ac.cn/zhonglab/list.php?pid=1) and [Dr. Yanfen Liu (刘艳芬)](https://slst.shanghaitech.edu.cn/lyf_en/main.htm)<br>
 <br>
 <br>
 <br>
