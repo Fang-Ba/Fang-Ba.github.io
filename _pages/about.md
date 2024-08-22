@@ -182,4 +182,49 @@ Honors and Awards
 
 <br/>
 
-2024 Outstanding Graduate (Top 10%) 2024, ShanghaiTech University.
+<b>2024</b>   Outstanding Graduate (Top 10%) 2024, ShanghaiTech University.
+<br>
+<br>
+<b>2023</b>   Outstanding Student (Top 5%) 2022-2023, ShanghaiTech University.
+<br>
+<br>
+<b>2023</b>   Merit Poster Award, 8th Shanghai Syn-Bio Alliance Annual Meeting & 2023 Developmental Frontier.
+<br>
+<br>
+<b>2022</b>   Outstanding Student (Top 5%) 2021-2022, ShanghaiTech University.
+<br>
+<br>
+<b>2022</b>   Faculty Opinions (F1000) Recommended the Manuscript (<b>Fang Ba</b>, and Jian Li# et al. <i><b>Nucleic Acids Research</b></i>, 2022) as Highest Level with Three Stars.
+<br>
+<br>
+<b>2019</b>   Outstanding Graduate (Top 10%) 2019, ShanghaiTech University.
+<br>
+<br>
+<b>2018</b>   Outstanding Student (Top 5%) 2017-2018, ShanghaiTech University.
+<br>
+<br>
+<b>2018</b>   iGEM 2018 (Worked as Team Advisor): Gold Medal.
+<br>
+<br>
+<b>2017</b>   Merit Student (Top 10%) 2016-2017, ShanghaiTech University.
+<br>
+<br>
+<b>2017</b>   iGEM 2017 (Worked as Team Leader): Gold Medal, Best Hardware (Sole), Nominated for Best Foundational Advance Project, Nominated for Best Education & Public Engagement, Nominated for Best New Composite Part, Nominated for Safety Commendation.
+<br>
+<br>
+<b>2016</b>   Merit Student (Top 10%) 2015-2016, ShanghaiTech University.
+<br>
+<br>
+<b>2016</b>   iGEM 2016 (Worked as Team Member): Gold Medal.
+<br>
+<br>
+<br>
+
+
+
+Peer Review Contributions
+====
+
+<br/>
+
+<i><b>Nature Communications</b></i>, 15, 3338 (2024): Reviewer #2 [Link](https://www.nature.com/articles/s41467-024-47132-8)
