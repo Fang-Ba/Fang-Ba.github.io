@@ -159,34 +159,37 @@ Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0831
 <br>
 <br>
 
-8. Wan-Qiu Liu^, Xiangyang Ji^, <b>Fang Ba</b>, Yufei Zhang, Huiling Xu, Shuhui Huang, Xiao Zheng, Yifan Liu#, Shengjie Ling#, Michael C. Jewett#, Jian Li#. Cell-Free Biosynthesis and Engineering of Ribosomally Synthesized Lanthipeptides. <i><b>Nature Communications</b></i>, 15, 4336 (2024). [Link](https://www.nature.com/articles/s41467-024-48726-y)
+8. Yufei Zhang, <b>Fang Ba</b>, Shuhui Huang, Wan-Qiu Liu, Jian Li#. Orthogonal Serine Integrases Enable Scalable Gene Storage Cascades in Bacterial Genome. <i><b>ACS Synthetic Biology</b></i>, 13, 3022-3031 (2024). [Link](https://pubs.acs.org/doi/full/10.1021/acssynbio.4c00505)
 <br>
 
-9. Ying Liu, Shuhui Huang, Wan-Qiu Liu, <b>Fang Ba</b>, Yifan Liu, Shengjie Ling, Jian Li#. An <i>In Vitro</i> Hybrid Biocatalytic System Enabled by a Combination of Surface-Displayed, Purified, and Cell-Free Expressed Enzymes. <i><b>ACS Synthetic Biology</b></i>, 13, 1434-1441 (2024). [Link](https://pubs.acs.org/doi/10.1021/acssynbio.4c00201)
+9. Wan-Qiu Liu^, Xiangyang Ji^, <b>Fang Ba</b>, Yufei Zhang, Huiling Xu, Shuhui Huang, Xiao Zheng, Yifan Liu#, Shengjie Ling#, Michael C. Jewett#, Jian Li#. Cell-Free Biosynthesis and Engineering of Ribosomally Synthesized Lanthipeptides. <i><b>Nature Communications</b></i>, 15, 4336 (2024). [Link](https://www.nature.com/articles/s41467-024-48726-y)
 <br>
 
-10. Shuhui Huang, <b>Fang Ba</b>, Wan-Qiu Liu, Jian Li#. Stapled NRPS Enhances the Production of Valinomycin in <i>Escherichia coli</i>. <i><b>Biotechnology and Bioengineering</b></i>, 120, 793-802 (2023). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28303)
+10. Ying Liu, Shuhui Huang, Wan-Qiu Liu, <b>Fang Ba</b>, Yifan Liu, Shengjie Ling, Jian Li#. An <i>In Vitro</i> Hybrid Biocatalytic System Enabled by a Combination of Surface-Displayed, Purified, and Cell-Free Expressed Enzymes. <i><b>ACS Synthetic Biology</b></i>, 13, 1434-1441 (2024). [Link](https://pubs.acs.org/doi/10.1021/acssynbio.4c00201)
 <br>
 
-11. Yushi Liu, <b>Fang Ba</b>, Wan-Qiu Liu, Changzhu Wu, Jian Li#. Plug-and-Play Functionalization of Protein–Polymer Conjugates for Tunable Catalysis Enabled by Genetically Encoded “Click” Chemistry. <i><b>ACS Catalysis</b></i>, 12, 4165-4174 (2022). [Link](https://pubs.acs.org/doi/10.1021/acscatal.2c00846)
+11. Shuhui Huang, <b>Fang Ba</b>, Wan-Qiu Liu, Jian Li#. Stapled NRPS Enhances the Production of Valinomycin in <i>Escherichia coli</i>. <i><b>Biotechnology and Bioengineering</b></i>, 120, 793-802 (2023). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28303)
 <br>
 
-12. Luyao Li^, Rong Zhang^, Long Chen, Xintong Tian, Ting Li, Bingchun Pu, Conghui Ma, Xiangyang Ji, <b>Fang Ba</b>, Chenwei Xiong, Yunfeng Shi, Xianqiang Mi, Jian Li#, Jay D. Keasling, Jingwei Zhang#, Yifan Liu#. Permeability-Engineered Compartmentalization Enables <i>In Vitro</i> Reconstitution of Sustained Synthetic Biology Systems. <i><b>Advanced Science</b></i>, 9, 2203652 (2022). [Link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202203652)
+12. Yushi Liu, <b>Fang Ba</b>, Wan-Qiu Liu, Changzhu Wu, Jian Li#. Plug-and-Play Functionalization of Protein–Polymer Conjugates for Tunable Catalysis Enabled by Genetically Encoded “Click” Chemistry. <i><b>ACS Catalysis</b></i>, 12, 4165-4174 (2022). [Link](https://pubs.acs.org/doi/10.1021/acscatal.2c00846)
 <br>
 
-13. Ailin Zhou, Yi Liu, <b>Fang Ba</b>, Chao Zhong#. Construction and Engineering Application of Bacterial Quorum Sensing Elements. <i><b>Synthetic Biology Journal (in Chinese)</b></i>, 2, 234 (2021). [Link](https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2020-066)
+13. Luyao Li^, Rong Zhang^, Long Chen, Xintong Tian, Ting Li, Bingchun Pu, Conghui Ma, Xiangyang Ji, <b>Fang Ba</b>, Chenwei Xiong, Yunfeng Shi, Xianqiang Mi, Jian Li#, Jay D. Keasling, Jingwei Zhang#, Yifan Liu#. Permeability-Engineered Compartmentalization Enables <i>In Vitro</i> Reconstitution of Sustained Synthetic Biology Systems. <i><b>Advanced Science</b></i>, 9, 2203652 (2022). [Link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202203652)
 <br>
 
-14. Xinyu Wang^, Jiahua Pu^, Yi Liu, <b>Fang Ba</b>, Mengkui Cui, Ke Li, Yu Xie, Yan Nie, Qixi Mi, Tao Li, Lingli Liu, Manzhou Zhu, Chao Zhong#. Immobilization of Functional Nano-Objects in Living Engineered Bacterial Biofilms for Catalytic Applications. <i><b>National Science Review</b></i>, 6, 929-943 (2019). [Link](https://academic.oup.com/nsr/article/6/5/929/5540752)
+14. Ailin Zhou, Yi Liu, <b>Fang Ba</b>, Chao Zhong#. Construction and Engineering Application of Bacterial Quorum Sensing Elements. <i><b>Synthetic Biology Journal (in Chinese)</b></i>, 2, 234 (2021). [Link](https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2020-066)
 <br>
 
-15. Jiaofang Huang^, Suying Liu^, Chen Zhang^, Xinyu Wang, Jiahua Pu, <b>Fang Ba</b>, Shuai Xue, Haifeng Ye, Tianxin Zhao, Ke Li, Yanyi Wang, Jicong Zhang, Lihua Wang, Chunhai Fan, Timothy K. Lu, Chao Zhong#.Programmable and Printable <i>Bacillus subtilis</i> Biofilms as Engineered Living Materials. <i><b>Nature Chemical Biology</b></i>, 15, 34-41 (2019). [Link](https://www.nature.com/articles/s41589-018-0169-2)
+15. Xinyu Wang^, Jiahua Pu^, Yi Liu, <b>Fang Ba</b>, Mengkui Cui, Ke Li, Yu Xie, Yan Nie, Qixi Mi, Tao Li, Lingli Liu, Manzhou Zhu, Chao Zhong#. Immobilization of Functional Nano-Objects in Living Engineered Bacterial Biofilms for Catalytic Applications. <i><b>National Science Review</b></i>, 6, 929-943 (2019). [Link](https://academic.oup.com/nsr/article/6/5/929/5540752)
 <br>
 
-16. Jacob Beal^, Traci Haddock-Angelli^, Geoff Baldwin^, Markus Gershater, Ari Dwijayanti, Marko Storch, Kim De Mora, Meagan Lizarazo, Randy Rettberg, <b>with the iGEM Interlab Study Contributors (Fang Ba)</b>. Quantification of Bacterial Fluorescence Using Independent Calibrants. <i><b>PLoS One</b></i>, 13, e0199432 (2018). [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199432)
+16. Jiaofang Huang^, Suying Liu^, Chen Zhang^, Xinyu Wang, Jiahua Pu, <b>Fang Ba</b>, Shuai Xue, Haifeng Ye, Tianxin Zhao, Ke Li, Yanyi Wang, Jicong Zhang, Lihua Wang, Chunhai Fan, Timothy K. Lu, Chao Zhong#.Programmable and Printable <i>Bacillus subtilis</i> Biofilms as Engineered Living Materials. <i><b>Nature Chemical Biology</b></i>, 15, 34-41 (2019). [Link](https://www.nature.com/articles/s41589-018-0169-2)
 <br>
 
-17. Xinyu Wang^, Jiahua Pu^, Bolin An^, Yingfeng Li, Yuequn Shang, Zhijun Ning, Yi Liu, <b>Fang Ba</b>, Jiaming Zhang, Chao Zhong#. Programming Cells for Dynamic Assembly of Inorganic Nano-Objects with Spatiotemporal Control. <i><b>Advanced Materials</b></i>, 30, 1705968 (2018). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201705968)
+17. Jacob Beal^, Traci Haddock-Angelli^, Geoff Baldwin^, Markus Gershater, Ari Dwijayanti, Marko Storch, Kim De Mora, Meagan Lizarazo, Randy Rettberg, <b>with the iGEM Interlab Study Contributors (Fang Ba)</b>. Quantification of Bacterial Fluorescence Using Independent Calibrants. <i><b>PLoS One</b></i>, 13, e0199432 (2018). [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199432)
+<br>
+
+18. Xinyu Wang^, Jiahua Pu^, Bolin An^, Yingfeng Li, Yuequn Shang, Zhijun Ning, Yi Liu, <b>Fang Ba</b>, Jiaming Zhang, Chao Zhong#. Programming Cells for Dynamic Assembly of Inorganic Nano-Objects with Spatiotemporal Control. <i><b>Advanced Materials</b></i>, 30, 1705968 (2018). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201705968)
 <br>
 <br>
 <br>
