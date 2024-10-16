@@ -10,7 +10,7 @@ redirect_from:
 
 Contact
 ====
-Email (primary): fangba@tamu.edu
+Email (primary): fangba@tamu.edu<br>
 Email (secondary): bafang@alumni.shanghaitech.edu.cn
 <br>
 <br>
@@ -29,7 +29,6 @@ Employment
 <b>Postdoctoral Researcher</b> (Oct. 2024 - Present, Texas A&M University) [Link](https://directory.tamu.edu/people/678c1abff0c63fb5f8b0a1fdff5ab73a/?branch=people&cn=fang+ba)<br>
 Major: TBA<br>
 Supervisor: [Dr. Qing Sun (孙青)](https://engineering.tamu.edu/chemical/profiles/sun-qing.html)<br>
-<br>
 <br>
 <br>
 
