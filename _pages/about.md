@@ -272,4 +272,6 @@ Peer Review Contributions
 ====
 
 
-<i><b>Nature Communications</b></i>, 15, 3338 (2024): Reviewer #2 [Link](https://www.nature.com/articles/s41467-024-47132-8)
+<i><b>Nature Communications</b></i>, 15, 3338 (2024): Reviewer #2 [Link](https://www.nature.com/articles/s41467-024-47132-8)<br>
+<i><b>Synthetic and Systems Biotechnology</b></i> (2024)<br>
+<i><b>Bioresource Technology Reports</b></i> (2024)<br>
