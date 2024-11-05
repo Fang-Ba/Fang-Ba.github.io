@@ -18,8 +18,8 @@ Email (secondary): bafang@alumni.shanghaitech.edu.cn
 
 Personal CV
 ====
-[pdf version](https://drive.google.com/file/d/15_o8UZuIaoWQHcqI4E2bSILKQtEkMEd4/view)<br>
-(Last update: Oct. 16 2024)
+[pdf version](https://drive.google.com/file/d/1gOYvIhq4RWAgNACi3gpt4xUtCI2ugfxT/view)<br>
+(Last update: Nov. 4 2024)
 <br>
 <br>
 <br>
@@ -279,5 +279,8 @@ Peer Review Contributions
 <br>
 <br>
 <i><b>Bioresource Technology Reports</b></i> (2024)
+<br>
+<br>
+<i><b>Trends in Biotechnology</b></i> (2024)
 <br>
 <br>
