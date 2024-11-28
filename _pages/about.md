@@ -290,3 +290,6 @@ Peer Review Contributions
 <i><b>International Journal of Molecular Sciences</b></i> (2024) (2×)
 <br>
 <br>
+<i><b>Sustainability</b></i> (2024)
+<br>
+<br>
