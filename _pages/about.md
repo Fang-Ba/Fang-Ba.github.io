@@ -287,7 +287,10 @@ Peer Review Contributions
 <i><b>Molecules</b></i> (2024)
 <br>
 <br>
-<i><b>International Journal of Molecular Sciences</b></i> (2024) (2×)
+<i><b>International Journal of Molecular Sciences</b></i> (2024): Reviewer #2 [Link](https://www.mdpi.com/1422-0067/25/22/12395/review_report)
+<br>
+<br>
+<i><b>International Journal of Molecular Sciences</b></i> (2024)
 <br>
 <br>
 <i><b>Sustainability</b></i> (2024)
