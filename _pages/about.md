@@ -109,7 +109,7 @@ Full Publication List
 <b>#Corresponding Author, ^Equal Contribution</b>
 <br/>
 
-1. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Blue-Purple Evaluation: Chromoproteins Facilitate the Identification of BioBrick Compatibility. <i><b>Biotechnology and Bioengineering</b></i>, 122, 233-241 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28862)
+1. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Blue-Purple Evaluation: Chromoproteins Facilitate the Identification of BioBrick Compatibility. <i><b>Biotechnology and Bioengineering</b></i>, 122, 233-241 (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28862)
 <br>
 <br>
 <img src='/images/Biotechnol Bioeng 2024.jpg' height="75%" width="75%">
