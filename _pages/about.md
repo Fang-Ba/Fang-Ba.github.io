@@ -305,6 +305,6 @@ Peer Review Contributions
 <i><b>Microbiology Research</b></i> (2024)
 <br>
 <br>
-<i><b>Synbio</b></i> (2024)
+<i><b>SynBio</b></i> (2024)
 <br>
 <br>
