@@ -221,7 +221,10 @@ Patents
 <br>
 <br>
 <br>
-
+2. (Chinese Patent) Jian Li, Yufei Zhang, Wan-Qiu Liu, <b>Fang Ba</b>. CN202310605206.6 (Under Review).
+<br>
+<br>
+<br>
 
 
 Honors and Awards
