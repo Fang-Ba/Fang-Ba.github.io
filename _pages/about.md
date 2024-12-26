@@ -220,7 +220,6 @@ Patents
 1. (Chinese Patent) Jian Li, <b>Fang Ba</b>, Wan-Qiu Liu. CN202111336469.9 (Under Review).
 <br>
 <br>
-<br>
 2. (Chinese Patent) Jian Li, Yufei Zhang, Wan-Qiu Liu, <b>Fang Ba</b>. CN202310605206.6 (Under Review).
 <br>
 <br>
