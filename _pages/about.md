@@ -117,7 +117,7 @@ Full Publication List
 <br>
 <br>
 
-2. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114) <b>Selected as Wiley China Excellent Author Program: [上海科技大学](https://www.shanghaitech.edu.cn/2024/1226/c1001a1105388/page.htm), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/MYmUdEmGyiOimQ27hwD52g)</b>
+2. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114) <br><b>Selected as Wiley China Excellent Author Program: [上海科技大学](https://www.shanghaitech.edu.cn/2024/1226/c1001a1105388/page.htm), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/MYmUdEmGyiOimQ27hwD52g)</b>
 <br>
 <br>
 <img src='/images/Biotechnol J 2024-2.jpg' height="75%" width="75%">
@@ -125,7 +125,7 @@ Full Publication List
 <br>
 <br>
 
-3. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327) <b>[Selected as editor's choice](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7314.editors-choice)</b>
+3. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327) <br><b>[Selected as editor's choice](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7314.editors-choice)</b>
 <br>
 <br>
 <img src='/images/Biotechnol J 2024-1.jpg' height="75%" width="75%">
