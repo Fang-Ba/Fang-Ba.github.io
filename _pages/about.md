@@ -310,3 +310,6 @@ Peer Review Contributions
 <i><b>SynBio</b></i> (2024)
 <br>
 <br>
+<i><b>Bioresource Technology</b></i> (2025)
+<br>
+<br>
