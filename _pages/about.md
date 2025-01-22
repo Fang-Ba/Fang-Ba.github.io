@@ -322,3 +322,6 @@ Peer Review Contributions
 <i><b>Molecules</b></i> (2025)
 <br>
 <br>
+<i><b>Metabolic Engineering Communications</b></i> (2025)
+<br>
+<br>
