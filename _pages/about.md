@@ -325,3 +325,6 @@ Peer Review Contributions
 <i><b>Metabolic Engineering Communications</b></i> (2025)
 <br>
 <br>
+<i><b>International Journal of Biological Macromolecules</b></i> (2025)
+<br>
+<br>
