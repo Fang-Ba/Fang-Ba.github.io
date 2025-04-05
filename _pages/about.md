@@ -109,15 +109,7 @@ Full Publication List
 <b>#Corresponding Author, ^Equal Contribution</b>
 <br/>
 
-1. Luyao Wang^, <b>Fang Ba^</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Establishing a Serine Integrase-Based Genetic Memory System <i>In Vitro</i>. <i><b>Biotechnology and Bioengineering</b></i>, Early View (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/bit.28986)
-<br>
-<br>
-<img src='/images/Biotechnol Bioeng 2025.png' height="75%" width="75%">
-<br>
-<br>
-<br>
-
-2. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Blue-Purple Evaluation: Chromoproteins Facilitate the Identification of BioBrick Compatibility. <i><b>Biotechnology and Bioengineering</b></i>, 122, 233-241 (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28862)
+1. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Blue-Purple Evaluation: Chromoproteins Facilitate the Identification of BioBrick Compatibility. <i><b>Biotechnology and Bioengineering</b></i>, 122, 233-241 (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.28862)
 <br>
 <br>
 <img src='/images/Biotechnol Bioeng 2024.jpg' height="75%" width="75%">
@@ -125,7 +117,7 @@ Full Publication List
 <br>
 <br>
 
-3. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114) <br><b>Selected as Wiley China Excellent Author Program: [上海科技大学](https://www.shanghaitech.edu.cn/2024/1226/c1001a1105388/page.htm), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/MYmUdEmGyiOimQ27hwD52g)</b>
+2. <b>Fang Ba</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Rainbow Screening: Chromoproteins Enable Visualized Molecular Cloning. <i><b>Biotechnology Journal</b></i>, 19, 2400114 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202400114) <br><b>Selected as Wiley China Excellent Author Program: [上海科技大学](https://www.shanghaitech.edu.cn/2024/1226/c1001a1105388/page.htm), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/MYmUdEmGyiOimQ27hwD52g)</b>
 <br>
 <br>
 <img src='/images/Biotechnol J 2024-2.jpg' height="75%" width="75%">
@@ -133,7 +125,7 @@ Full Publication List
 <br>
 <br>
 
-4. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327) <br><b>[Selected as editor's choice](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7314.editors-choice)</b>
+3. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327) <br><b>[Selected as editor's choice](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7314.editors-choice)</b>
 <br>
 <br>
 <img src='/images/Biotechnol J 2024-1.jpg' height="75%" width="75%">
@@ -141,7 +133,7 @@ Full Publication List
 <br>
 <br>
 
-5. Luyao Wang, Yufei Zhang, Wan-Qiu Liu,<b> Fang Ba#</b>, Jian Li# Serine Integrase-based Recombination Enables Direct Plasmid Assembly <i>In Vivo</i>. <b><i>Synthetic Biology and Engineering</i></b>, 1, 10017 (2023). [Link](https://www.sciepublish.com/article/pii/99)
+4. Luyao Wang, Yufei Zhang, Wan-Qiu Liu,<b> Fang Ba#</b>, Jian Li# Serine Integrase-based Recombination Enables Direct Plasmid Assembly <i>In Vivo</i>. <b><i>Synthetic Biology and Engineering</i></b>, 1, 10017 (2023). [Link](https://www.sciepublish.com/article/pii/99)
 <br>
 <br>
 <img src='/images/SBE 2023.jpg' height="75%" width="75%">
@@ -149,7 +141,7 @@ Full Publication List
 <br>
 <br>
 
-6. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Applications of Serine Integrases in Synthetic Biology over the Past Decade. <i><b>SynBio</b></i>, 1, 172-189 (2023). [Link](https://www.mdpi.com/2674-0583/1/2/12)
+5. <b>Fang Ba</b>, Yufei Zhang, Luyao Wang, Wan-Qiu Liu, Jian Li#. Applications of Serine Integrases in Synthetic Biology over the Past Decade. <i><b>SynBio</b></i>, 1, 172-189 (2023). [Link](https://www.mdpi.com/2674-0583/1/2/12)
 <br>
 <br>
 <img src='/images/SynBio 2023.jpg' height="75%" width="75%">
@@ -157,7 +149,7 @@ Full Publication List
 <br>
 <br>
 
-7. <b>Fang Ba</b>, Xiangyang Ji, Shuhui Huang, Yufei Zhang, Wan-Qiu Liu, Yifan Liu, Shengjie Ling, Jian Li#. Engineering <i>Escherichia coli</i> to Utilize Erythritol as Sole Carbon Source. <i><b>Advanced Science</b></i>, 10, 2207008 (2023). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008)<br>
+6. <b>Fang Ba</b>, Xiangyang Ji, Shuhui Huang, Yufei Zhang, Wan-Qiu Liu, Yifan Liu, Shengjie Ling, Jian Li#. Engineering <i>Escherichia coli</i> to Utilize Erythritol as Sole Carbon Source. <i><b>Advanced Science</b></i>, 10, 2207008 (2023). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207008)<br>
 Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0404/c1001a1076574/page.htm), [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/2023/0510/c1260a1077343/page.htm), [科学网](https://news.sciencenet.cn/htmlpaper/2023/4/202342110016881194.shtm), [中国科学报](https://news.sciencenet.cn/dz/dznews_photo.aspx?t=&id=38769), [腾讯网](https://new.qq.com/rain/a/20230814A07O7E00), [MIT科技评论](https://www.mittrchina.com/news/detail/12313), [热心肠日报](https://www.chinagut.cn/papers/read/1035605605), [新浪财经](https://finance.sina.com.cn/jjxw/2023-04-20/doc-imyqzutf7516435.shtml?cref=cj), [新浪科技](https://finance.sina.com.cn/tech/roll/2023-08-14/doc-imzhefqz6189140.shtml), [爱科学](https://www.iikx.com/news/progress/22873.html), [发酵工业网](https://www.cn-ferment.com/news/show-15707.html), [微信公众号——上海科技大学](https://mp.weixin.qq.com/s/IozZFl31yQ70AhOzzBblAA), [微信公众号——ShanghaiTech Global](https://mp.weixin.qq.com/s/pmgWQYysWULVHf1hu488Gw), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/9y-qbOlOWCh2rQ-CNHUWmw), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/CnjBuxDcVXOPG2Pvo_cGsQ), [微信公众号——生辉](https://mp.weixin.qq.com/s/lAmp0mOFQ1GY3a01h_ikwg), [微信公众号——生辉SynBio](https://mp.weixin.qq.com/s/htXxfRxFW8wH-brMhG5p_A), [微信公众号——DeepTech深科技](https://mp.weixin.qq.com/s/9yL-xwZ17sJBGL7BsChiqA), [微信公众号——万物生物合成](https://mp.weixin.qq.com/s/l23z5kgu2LY3IF9btgReDw), [微信公众号——食品放大镜](https://mp.weixin.qq.com/s/yXGBypkJ-hUFu31eb380Yg), [微信公众号——生命科学修道院](https://mp.weixin.qq.com/s/anL8pZNswou315c78utkaQ).
 <br>
 <br>
@@ -166,7 +158,7 @@ Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0404
 <br>
 <br>
 
-8. <b>Fang Ba</b>, Yushi Liu, Wan-Qiu Liu, Xintong Tian, Jian Li#. SYMBIOSIS: Synthetic Manipulable Biobricks via Orthogonal Serine Integrase Systems. <i><b>Nucleic Acids Research</b></i>, 50, 2973-2985 (2022). [Link](https://academic.oup.com/nar/article/50/5/2973/6534355)<br>
+7. <b>Fang Ba</b>, Yushi Liu, Wan-Qiu Liu, Xintong Tian, Jian Li#. SYMBIOSIS: Synthetic Manipulable Biobricks via Orthogonal Serine Integrase Systems. <i><b>Nucleic Acids Research</b></i>, 50, 2973-2985 (2022). [Link](https://academic.oup.com/nar/article/50/5/2973/6534355)<br>
 Relevant reports: [Faculty Opinions F1000](https://connect.h1.co/article/741722689), [上海科技大学](https://www.shanghaitech.edu.cn/2022/0304/c1001a387060/page.htm), [微信公众号——上海科技大学](https://mp.weixin.qq.com/s/K8aVb1RKakres79zFPLE1g), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/WXj3-WK2K7WCJX5B10tbjw), [微信公众号——上科大科技发展](https://mp.weixin.qq.com/s/WA3_mZZwpwhtiLJ2sDk5dA), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/tBzGly5nWn28kdjy0RZklQ), [微信公众号——iSynBio造物](https://mp.weixin.qq.com/s/JOUtz0Pl-FkLfm_0WRkBZg).
 <br>
 <br>
@@ -175,11 +167,19 @@ Relevant reports: [Faculty Opinions F1000](https://connect.h1.co/article/7417226
 <br>
 <br>
 
-9. Ruoxuan Peng^,<b>Fang Ba^</b>, Jie Li^, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu#, Jian Li#, Shengjie Ling#. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)<br>
+8. Ruoxuan Peng^,<b>Fang Ba^</b>, Jie Li^, Jiayi Cao, Rong Zhang, Wan-Qiu Liu, Jing Ren, Yifan Liu#, Jian Li#, Shengjie Ling#. Embedding Living Cells with a Mechanically Reinforced and Functionally Programmable Hydrogel Fiber Platform. <i><b>Advanced Materials</b></i>, 35, 2305583 (2023). [Link](https://onlinelibrary.wiley.com/doi/10.1002/adma.202305583)<br>
 Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0831/c1006a1080210/page.htm), [南方周末——2023年度十大科创突破](https://www.infzm.com/contents/260750?source=202&source_1=260749), [知耕TechCube](https://zhuanlan.zhihu.com/p/648434249), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/xu90FmvxES7jib4D4qivOA), [微信公众号——上科大科技发展](https://mp.weixin.qq.com/s/IIZh7vToFbEk2FWO0QQ6xw), [微信公众号——高分子科技](https://mp.weixin.qq.com/s/hsb5gjiRg4rFOMtndJAThw), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/yapuVkqQ_r131iXyfIKilg), [微信公众号——材料科学前沿](https://mp.weixin.qq.com/s/xyvD8k9mAgEKQokCh7ByAw), [微信公众号——今日纺丝](https://mp.weixin.qq.com/s/adoiS6Qw2KFwMYjyyroEJg), [微信公众号——i科创力](https://mp.weixin.qq.com/s/1d66d8w6TpyYBT-E3scpcQ).
 <br>
 <br>
 <img src='/images/Adv Mater 2023.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
+
+9. Luyao Wang^, <b>Fang Ba^</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Establishing a Serine Integrase-Based Genetic Memory System <i>In Vitro</i>. <i><b>Biotechnology and Bioengineering</b></i>, Early View (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/bit.28986)
+<br>
+<br>
+<img src='/images/Biotechnol Bioeng 2025.png' height="75%" width="75%">
 <br>
 <br>
 <br>
