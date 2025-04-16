@@ -124,6 +124,11 @@ Full Publication List
 <br>
 <br>
 <br>
+<br>
+<img src='/images/certificate rainbow screening.jpg' height="75%" width="75%">
+<br>
+<br>
+<br>
 
 3. <b>Fang Ba</b>, Yufei Zhang, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Expanding the Toolbox of Probiotic <i>Escherichia coli</i> Nissle 1917 for Synthetic Biology. <i><b>Biotechnology Journal</b></i>, 19, 2300327 (2024). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300327) <br><b>[Selected as editor's choice](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1860-7314.editors-choice)</b><br><b>- 10% top viewed article in 2023</b>
 <br>
