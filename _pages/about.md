@@ -174,10 +174,15 @@ Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0404
 <br>
 
 7. <b>Fang Ba</b>, Yushi Liu, Wan-Qiu Liu, Xintong Tian, Jian Li#. SYMBIOSIS: Synthetic Manipulable Biobricks via Orthogonal Serine Integrase Systems. <i><b>Nucleic Acids Research</b></i>, 50, 2973-2985 (2022). [Link](https://academic.oup.com/nar/article/50/5/2973/6534355)<br>
-Relevant reports: [Faculty Opinions F1000](https://connect.h1.co/article/741722689), [上海科技大学](https://www.shanghaitech.edu.cn/2022/0304/c1001a387060/page.htm), [微信公众号——上海科技大学](https://mp.weixin.qq.com/s/K8aVb1RKakres79zFPLE1g), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/WXj3-WK2K7WCJX5B10tbjw), [微信公众号——上科大科技发展](https://mp.weixin.qq.com/s/WA3_mZZwpwhtiLJ2sDk5dA), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/tBzGly5nWn28kdjy0RZklQ), [微信公众号——iSynBio造物](https://mp.weixin.qq.com/s/JOUtz0Pl-FkLfm_0WRkBZg).
+Relevant reports: [Faculty Opinions F1000](https://connect.h1.co/article/741722689), [上海科技大学](https://www.shanghaitech.edu.cn/2022/0304/c1001a387060/page.htm), [微信公众号——上海科技大学](https://mp.weixin.qq.com/s/K8aVb1RKakres79zFPLE1g), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/WXj3-WK2K7WCJX5B10tbjw), [微信公众号——上科大科技发展](https://mp.weixin.qq.com/s/WA3_mZZwpwhtiLJ2sDk5dA), [微信公众号——遇见生物合成](https://mp.weixin.qq.com/s/tBzGly5nWn28kdjy0RZklQ), [微信公众号——iSynBio造物](https://mp.weixin.qq.com/s/JOUtz0Pl-FkLfm_0WRkBZg).<br><b>- F1000 highlight</b>
 <br>
 <br>
 <img src='/images/NAR 2022.jpeg' height="75%" width="75%">
+<br>
+<br>
+<br>
+<br>
+<img src='/images/F1000.jpg' height="75%" width="75%">
 <br>
 <br>
 <br>
