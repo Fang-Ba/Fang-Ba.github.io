@@ -384,7 +384,7 @@ Peer Review Contributions
 <i><b>International Journal of Biological Macromolecules</b></i> (2025)
 <br>
 <br>
-<i><b>Molecules</b></i> (2025)
+<i><b>Molecules</b></i> (2025): Reviewer #1 [Link](https://www.mdpi.com/1420-3049/30/9/1956/review_report)
 <br>
 <br>
 <i><b>SynBio</b></i> (2025)
