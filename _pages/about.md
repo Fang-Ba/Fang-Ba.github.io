@@ -98,6 +98,17 @@ In this work, we established a structure–property–function optimized living 
 <img src='/images/Adv Mater 2023.jpg' height="100%" width="100%">
 <br/>
 <br/>
+
+Cell Systems (2025)
+------
+
+<B>Title: Integrase Enables Synthetic Intercellular Logic via Bacterial Conjugation</B><br/>
+
+In this work, we present a versatile strategy for integrase-mediated intercellular DNA messaging and regulation, combining bacterial conjugation-based horizontal gene transfer with programmed genetic circuits. This approach enables DNA messaging, logic processing, and phenotype modulation in hierarchical E. coli strains, offering new avenues for microbial community programming. This work was published on <B><i>Cell Systems</i></B> [Link](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00101-2).
+
+<img src='/images/Cell Systems 2025.png' height="100%" width="100%">
+<br/>
+<br/>
 <br>
 <br>
 <br>
