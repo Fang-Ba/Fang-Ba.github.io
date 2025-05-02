@@ -121,7 +121,7 @@ Full Publication List
 <br/>
 
 1. <b>Fang Ba^</b>, Yufei Zhang^, Luyao Wang^, Xiangyang Ji, Wan-Qiu Liu, Shengjie Ling, Jian Li#. Integrase Enables Synthetic Intercellular Logic via Bacterial Conjugation. <i><b>Cell Systems</b></i>, Online now (2025). [Link](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00101-2)<br>
-Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/lkh_ILcI2SK93u4ICq7TWg), [合成生物](https://mp.weixin.qq.com/s/maUutV8BmzrQPvizpCLyzQ), [合成生物学应用](https://mp.weixin.qq.com/s/pNAflgyBF4AXD4p3MxdrPQ)
+Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/lkh_ILcI2SK93u4ICq7TWg), [微信公众号——上科大物质学院](https://mp.weixin.qq.com/s/FIkmdAT4J6w7eAdY--ibzQ), [合成生物](https://mp.weixin.qq.com/s/maUutV8BmzrQPvizpCLyzQ), [合成生物学应用](https://mp.weixin.qq.com/s/pNAflgyBF4AXD4p3MxdrPQ)
 <br>
 <br>
 <img src='/images/Cell Systems 2025.png' height="75%" width="75%">
