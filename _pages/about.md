@@ -403,3 +403,6 @@ Peer Review Contributions
 <i><b>SynBio</b></i> (2025)
 <br>
 <br>
+<i><b>Applied Microbiology</b></i> (2025)
+<br>
+<br>
