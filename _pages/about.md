@@ -409,3 +409,6 @@ Peer Review Contributions
 <i><b>STAR Protocols</b></i> (2025)
 <br>
 <br>
+<i><b>Trends in Biotechnology</b></i> (2025)
+<br>
+<br>
