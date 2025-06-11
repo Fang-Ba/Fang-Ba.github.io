@@ -216,7 +216,7 @@ Relevant reports: [上海科技大学](https://www.shanghaitech.edu.cn/2023/0831
 <br>
 <br>
 
-10. Luyao Wang^, <b>Fang Ba^</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Establishing a Serine Integrase-Based Genetic Memory System <i>In Vitro</i>. <i><b>Biotechnology and Bioengineering</b></i>, Early View (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/bit.28986)
+10. Luyao Wang^, <b>Fang Ba^</b>, Yufei Zhang, Wan-Qiu Liu, Jian Li#. Establishing a Serine Integrase-Based Genetic Memory System <i>In Vitro</i>. <i><b>Biotechnology and Bioengineering</b></i>, 122, 1873-1884 (2025). [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/bit.28986)
 <br>
 <br>
 <img src='/images/Biotechnol Bioeng 2025.png' height="75%" width="75%">
