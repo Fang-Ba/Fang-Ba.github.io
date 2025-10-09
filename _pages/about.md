@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://hits.sh/fang-ba.github.io/"><img alt="Hits" src="https://hits.sh/fang-ba.github.io.svg?view=today-total&label=Visitors%20(%E8%AE%BF%E5%AE%A2%E6%95%B0)"/></a>
+<a href="https://hits.sh/fang-ba.github.io/"><img alt="Hits" src="https://hits.sh/fang-ba.github.io.svg?view=today-total&label=Visitor%20number%3A%20today%2Ftotal"/></a>
 
 Contact
 ====
