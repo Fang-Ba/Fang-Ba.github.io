@@ -426,3 +426,6 @@ Peer Review Contributions
 <i><b>International Journal of Molecular Sciences</b></i> (2025)
 <br>
 <br>
+<i><b>BMC Biotechnology</b></i> (2025)
+<br>
+<br>
