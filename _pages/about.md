@@ -134,7 +134,7 @@ Full Publication List
 <br/>
 
 1. <b>Fang Ba</b>, Qing Sun#. Chromoproteins: Visible Tools for Advancing Synthetic Biology. <i><b>Trends in Biotechnology</b></i>, Online Now, doi: 10.1016/j.tibtech.2025.10.020 (2025). [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00448-2)<br>
-Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/dMcqXhTBAnitSHwIFM2-4Q),[iChemEng](https://https://mp.weixin.qq.com/s/2LcWvZBE15kc445nYqP70g)
+Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/dMcqXhTBAnitSHwIFM2-4Q),[iChemEng](https://mp.weixin.qq.com/s/2LcWvZBE15kc445nYqP70g)
 <br>
 <br>
 <img src='/images/TIB_Figure 1.jpg' height="75%" width="75%">
