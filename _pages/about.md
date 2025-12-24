@@ -455,9 +455,9 @@ Peer Review Contributions
 <i><b>Scientific Reports</b></i> (2025)
 <br>
 <br>
-Bioengineering (2025)
+<i><b>Bioengineering</b></i> (2025)
 <br>
 <br>
-Discover Bacteria (2025)
+<i><b>Discover Bacteria</b></i> (2025)
 <br>
 <br>
