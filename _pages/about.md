@@ -446,7 +446,7 @@ Peer Review Contributions
 <i><b>International Journal of Molecular Sciences</b></i> (2025)
 <br>
 <br>
-<i><b>BMC Biotechnology</b></i> (2025)
+<i><b>BMC Biotechnology</b></i> (2025) Reviewer #1 [Link](https://link.springer.com/article/10.1186/s12896-025-01098-7/peer-review)
 <br>
 <br>
 <i><b>Molecules</b></i> (2025)
