@@ -467,3 +467,8 @@ Peer Review Contributions
 <i><b>Journal of Biological Engineering</b></i> (2026)
 <br>
 <br>
+<br>
+<br>
+<i><b>Fermentation</b></i> (2026)
+<br>
+<br>
