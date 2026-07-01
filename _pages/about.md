@@ -69,7 +69,7 @@ Research Interests
 Selected Publications (First or Co-First Author)
 ====
 
-Trends in Biotechnology (2025)
+Trends in Biotechnology (2026)
 ------
 
 <B>Title: Chromoproteins: Visible Tools for Advancing Synthetic Biology</B><br/>
