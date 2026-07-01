@@ -20,8 +20,8 @@ Email (secondary): bafang@alumni.shanghaitech.edu.cn
 
 Personal CV
 ====
-[pdf version](https://drive.google.com/file/d/1zHrg-KAjKRGAcfRuCwAw5pKlltLv-Yig/view)<br>
-(Last update: November 27, 2025)
+[pdf version](https://drive.google.com/file/d/1XFreUb_NfRsdtZMxHDPp8QQo3E7hLCcv/view)<br>
+(Last update: July 1, 2026)
 <br>
 <br>
 <br>
@@ -133,7 +133,7 @@ Full Publication List
 <b>#Corresponding Author, ^Equal Contribution</b>
 <br/>
 
-1. <b>Fang Ba</b>, Qing Sun#. Chromoproteins: Visible Tools for Advancing Synthetic Biology. <i><b>Trends in Biotechnology</b></i>, Online Now, doi: 10.1016/j.tibtech.2025.10.020 (2025). [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00448-2)<br>
+1. <b>Fang Ba</b>, Qing Sun#. Chromoproteins: Visible Tools for Advancing Synthetic Biology. <i><b>Trends in Biotechnology</b></i>, 44, 1825-1836 (2026). [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00448-2)<br>
 Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/dMcqXhTBAnitSHwIFM2-4Q),[iChemEng](https://mp.weixin.qq.com/s/2LcWvZBE15kc445nYqP70g)
 <br>
 <br>
