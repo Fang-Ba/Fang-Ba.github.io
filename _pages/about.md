@@ -72,7 +72,7 @@ Selected Publications (First or Co-First Author)
 Biotechnology Advances (2026)
 ------
 
-<B>Title: Site-specific recombinases and their essential role in synthetic biology</B><br/>
+<B>Title: Site-Specific Recombinases and Their Essential Role in Synthetic Biology</B><br/>
 
 In this Review article, we comprehensively summarizes site-specific recombinases across enzyme categories, structural mechanisms, key characteristics of individual recombinases, recombination models, engineering strategies, and diverse functional applications in synthetic biology. This paper was published on <B><i>Biotechnology Advances</i></B> [Link](https://www.sciencedirect.com/science/article/pii/S0734975026002119).
 
@@ -144,7 +144,7 @@ Full Publication List
 <b>#Corresponding Author, ^Equal Contribution</b>
 <br/>
 
-1. <b>Fang Ba</b>, Qing Sun#. Site-specific recombinases and their essential role in synthetic biology. <i><b>Biotechnology Advances</b></i>, 92, 109005 (2026). [Link](https://www.sciencedirect.com/science/article/pii/S0734975026002119)<br>
+1. <b>Fang Ba</b>, Qing Sun#. Site-Specific Recombinases and Their Essential Role in Synthetic Biology. <i><b>Biotechnology Advances</b></i>, 92, 109005 (2026). [Link](https://www.sciencedirect.com/science/article/pii/S0734975026002119)<br>
 <br>
 <br>
 <img src='/images/Biotechnol Adv 2026.png' height="75%" width="75%">
