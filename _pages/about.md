@@ -145,6 +145,7 @@ Full Publication List
 <br/>
 
 1. <b>Fang Ba</b>, Qing Sun#. Site-Specific Recombinases and Their Essential Role in Synthetic Biology. <i><b>Biotechnology Advances</b></i>, 92, 109005 (2026). [Link](https://www.sciencedirect.com/science/article/pii/S0734975026002119)<br>
+Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/HjkJGufLjNYELElxfZoA7g)
 <br>
 <br>
 <img src='/images/Biotechnol Adv 2026.png' height="75%" width="75%">
