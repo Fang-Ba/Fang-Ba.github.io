@@ -499,3 +499,6 @@ Peer Review Contributions
 <i><b>Microorganisms</b></i> (2026)
 <br>
 <br>
+<i><b>STAR Protocols</b></i> (2026)
+<br>
+<br>
