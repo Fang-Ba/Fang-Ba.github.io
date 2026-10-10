@@ -502,3 +502,6 @@ Peer Review Contributions
 <i><b>STAR Protocols</b></i> (2026)
 <br>
 <br>
+<i><b>International Journal of Molecular Sciences</b></i> (2026)
+<br>
+<br>
