@@ -145,7 +145,7 @@ Full Publication List
 <br/>
 
 1. <b>Fang Ba</b>, Qing Sun#. Site-Specific Recombinases and Their Essential Role in Synthetic Biology. <i><b>Biotechnology Advances</b></i>, 92, 109005 (2026). [Link](https://www.sciencedirect.com/science/article/pii/S0734975026002119)<br>
-Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/HjkJGufLjNYELElxfZoA7g),[iChemEng](https://mp.weixin.qq.com/s/KrhWR4_0sBtZ7wzE-1XtXQ)
+Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/HjkJGufLjNYELElxfZoA7g), [iChemEng](https://mp.weixin.qq.com/s/KrhWR4_0sBtZ7wzE-1XtXQ)
 <br>
 <br>
 <img src='/images/Biotechnol Adv 2026.png' height="75%" width="75%">
@@ -154,7 +154,7 @@ Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/HjkJGufLjNYELE
 <br>
 
 2. <b>Fang Ba</b>, Qing Sun#. Chromoproteins: Visible Tools for Advancing Synthetic Biology. <i><b>Trends in Biotechnology</b></i>, 44, 1825-1836 (2026). [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00448-2)<br>
-Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/dMcqXhTBAnitSHwIFM2-4Q),[iChemEng](https://mp.weixin.qq.com/s/2LcWvZBE15kc445nYqP70g)
+Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/dMcqXhTBAnitSHwIFM2-4Q), [iChemEng](https://mp.weixin.qq.com/s/2LcWvZBE15kc445nYqP70g)
 <br>
 <br>
 <img src='/images/TIB_Figure 1.jpg' height="75%" width="75%">
