@@ -20,8 +20,8 @@ Email (secondary): bafang@alumni.shanghaitech.edu.cn
 
 Personal CV
 ====
-[pdf version](https://drive.google.com/file/d/18psZ2y0yJFkpeFf-frXOIgXtIdXrMqo8/view)<br>
-(Last update: August 12, 2026)
+[pdf version](https://drive.google.com/file/d/1F4juKOx_SKQXJjgXCrD76yyp2mLNJ9M4/view)<br>
+(Last update: November 11, 2026)
 <br>
 <br>
 <br>
