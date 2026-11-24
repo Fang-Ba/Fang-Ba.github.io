@@ -156,7 +156,7 @@ Full Publication List
 <br/>
 
 1. <b>Fang Ba^</b>, Lujie Liu^, Qing Sun#. Hierarchical Design Strategies for Tuning Genetic Circuits. <i><b>Trends in Biotechnology</b></i>, online now (2026). [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(26)00433-6)<br>
-Relevant reports: [遇见生物合成](https://mp.weixin.qq.com/s/kxdcu65wh3WgrxT-oza_fw)
+Relevant reports: [Texas A&M University Engineering News](https://news.engineering.tamu.edu/news/2026/11/24/designing-and-optimizing-genetic-circuits-in-biology/), [遇见生物合成](https://mp.weixin.qq.com/s/kxdcu65wh3WgrxT-oza_fw)
 <br>
 <br>
 <img src='/images/TIB 2026.png' height="75%" width="75%">
